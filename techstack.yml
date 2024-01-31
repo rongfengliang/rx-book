@@ -1,0 +1,412 @@
+repo_name: rongfengliang/rx-book
+report_id: b6ecb1564ad1c99ff1ea3beedee19ed9
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:03:56+00:00'
+requested_by: xgrommx
+provider: github
+branch: master
+detected_tools_count: 30
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/rongfengliang/rx-book
+  detection_source: Repo Metadata
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 2.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 03:59:00.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 12.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 03:59:00.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rongfengliang/rx-book
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 0.4.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/mousetrap/package.json
+  detection_source: theme/vendors/mousetrap/package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: PhantomJS
+  description: Scriptable Headless WebKit
+  website_url: https://phantomjs.org/
+  version: 1.8.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/1832/phantomjs.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/lunr.js/package.json
+  detection_source: theme/vendors/lunr.js/package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: QUnit
+  description: A JavaScript Unit Testing framework
+  website_url: http://qunitjs.com/
+  version: 1.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/jquery/bower.json
+  detection_source: theme/vendors/jquery/bower.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.1.10
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/jquery/bower.json
+  detection_source: theme/vendors/jquery/bower.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 1.8.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/jquery/bower.json
+  detection_source: theme/vendors/jquery/bower.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/lunr.js/.travis.yml
+  detection_source: theme/vendors/lunr.js/.travis.yml
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 04:51:49.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/mousetrap/package.json
+  detection_source: theme/vendors/mousetrap/package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 3.10.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 03:59:00.000000000 Z
+- name: font-awesome
+  description: The iconic font and CSS framework
+  package_url: https://www.npmjs.com/font-awesome
+  version: 4.4.0
+  license: OFL-1.1,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16160/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 03:59:00.000000000 Z
+- name: grunt-complexity
+  description: Evaluates code maintainability using Halstead and Cyclomatic metrics
+  package_url: https://www.npmjs.com/grunt-complexity
+  version: 0.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18270/default_c23c531e3bd6d7c846d8001ad17df3f453a2b154.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/mousetrap/package.json
+  detection_source: theme/vendors/mousetrap/package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: grunt-mocha
+  description: Grunt task for running client-side Mocha specs in PhantomJS
+  package_url: https://www.npmjs.com/grunt-mocha
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17369/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/mousetrap/package.json
+  detection_source: theme/vendors/mousetrap/package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: gulp-gh-pages
+  description: Gulp plugin to publish contents to Github pages
+  package_url: https://www.npmjs.com/gulp-gh-pages
+  version: 0.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16967/default_7a9e63a9526bf5da91e7a6f9f792b13e3543a875.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 04:51:49.000000000 Z
+- name: gulp-less
+  description: Less for Gulp
+  package_url: https://www.npmjs.com/gulp-less
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16267/default_dc80ff0a17bac19253430a4f0f586714841116db.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 04:51:49.000000000 Z
+- name: gulp-minify-css
+  description: Minify css with clean-css
+  package_url: https://www.npmjs.com/gulp-minify-css
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16291/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 04:51:49.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 04:51:49.000000000 Z
+- name: gulp-shell
+  description: A handy command line interface for gulp
+  package_url: https://www.npmjs.com/gulp-shell
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16370/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 04:51:49.000000000 Z
+- name: gulp-util
+  description: Utility functions for gulp plugins
+  package_url: https://www.npmjs.com/gulp-util
+  version: 3.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15912/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 04:51:49.000000000 Z
+- name: merge-stream
+  description: Create a stream that emits events from multiple other streams
+  package_url: https://www.npmjs.com/merge-stream
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16419/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 03:59:00.000000000 Z
+- name: mousetrap
+  description: Simple library for handling keyboard shortcuts
+  package_url: https://www.npmjs.com/mousetrap
+  version: 1.5.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18018/image.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 03:59:00.000000000 Z
+- name: run-sequence
+  description: Run a series of dependent gulp tasks in order
+  package_url: https://www.npmjs.com/run-sequence
+  version: 1.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16004/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 04:54:48.000000000 Z
+- name: vinyl-source-stream
+  description: Use conventional text streams at the start of your gulp or vinyl pipelines
+  package_url: https://www.npmjs.com/vinyl-source-stream
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16081/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 03:59:00.000000000 Z
+- name: qunit
+  description: An easy-to-use JavaScript Unit Testing framework
+  package_url: http://bower.io/qunit
+  version: 1.14.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/jquery/bower.json
+  detection_source: theme/vendors/jquery/bower.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: requirejs
+  description: A file and module loader for JavaScript
+  package_url: http://bower.io/requirejs
+  version: 2.1.10
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/jquery/bower.json
+  detection_source: theme/vendors/jquery/bower.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: sinon
+  description: Test spies, stubs and mocks for JavaScript
+  package_url: http://bower.io/sinon
+  version: 1.8.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/jquery/bower.json
+  detection_source: theme/vendors/jquery/bower.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
+- name: sizzle
+  description: A sizzlin' hot selector engine
+  package_url: http://bower.io/sizzle
+  version: 1.10.19
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/rongfengliang/rx-book/blob/master/theme/vendors/jquery/bower.json
+  detection_source: theme/vendors/jquery/bower.json
+  last_updated_by: xgrommx
+  last_updated_on: 2015-11-26 08:24:35.000000000 Z
